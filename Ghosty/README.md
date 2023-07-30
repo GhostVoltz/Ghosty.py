@@ -11,9 +11,9 @@
 
 #### *COMANDOS*  
  - `pkg i python -y && pkg i git -y`
- - `git clone https://github.com/Lursy/Persux`
- - `cd Persux`
- - `python Persux.py`  
+ - `git clone https://github.com/GhostVoltz/Gosty`
+ - `cd Ghosty`
+ - `python Ghosty.py`  
 
 #### *FUNÇÕES*  
  - *Alterar cor da letra*
@@ -41,5 +41,5 @@
 > - Auto atualização ao executar script
 
 
-> *12/05/23 by: gabrielfelipeassuncaodesouza*  
+> *30/09/23 by: GhostVoltz*  
 > - Refatoração, opção de atualização e arquivo de gitignore
