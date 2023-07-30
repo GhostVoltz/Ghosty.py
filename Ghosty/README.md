@@ -1,4 +1,4 @@
-# [<img src='# [<img src='https://ibb.co/5rG7xkF' />](https://www.youtube.com/GhostVoltz' />](https://www.youtube.com/channel/GhostVoltz)
+# [<img src='# [<img src='https://ibb.co/5rG7xkF' />]' (https://www.youtube.com/GhostVoltz' />](https://www.youtube.com/channel/GhostVoltz)
 
 > **ANDROID**
 > - - [ ] **KALI**
