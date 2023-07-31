@@ -42,7 +42,7 @@ try:
   {am}[ 6 ] {br}-{cy} Sair
 {ve}┗━━━━━━━━━━━━━━━━━┛
 Me ajude a fazer novos scripts apoiando no PIX
-{am}PIX: {vd}(ainda n)
+{am}PIX: {vd}(e5819f9e-0024-4b23-aa1e-a10d9cf752db)
 ''')
         menu = str(input(f'{am}//: {br}'))
         if not usr:
